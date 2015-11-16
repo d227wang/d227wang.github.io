@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
     <!-- Latest compiled and minified CSS -->
@@ -7,42 +7,45 @@
 
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="GalleryStyles.css">
+    <link rel="stylesheet" media="(max-width:800px)" href="mobileStyles.css">
 </head>
 
 <body>
-    <div class="container-fluid">
-        <nav class="navbar-default navbar-fixed-top">
-            <div class="container-fluid">
-                <div class="navbar-brand">
+
+    <nav class="navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="navbar-brand col-sm-3">
                     <a class="name" href="Index.html">darenWang</a>
                 </div>
-                <div>
+
                     <ui class="nav navbar-nav hidden-xs">
                         <li><a class="navItem" href="#">who am I</a></li>
                         <li><a href="#">what I'm up to</a></li>
                         <li><a href="Gallery.html">photos</a></li>
                         <li><a href="#">contact</a></li>
                     </ui>
-                </div>
             </div>
-        </nav>
+        </div>
+    </nav>
+    <div class="container-fluid">
         <div class="row">
             <div class="splash">
-
                 <img src="arrow--down--gray.png" class="scrollArrow">
-
             </div>
         </div>
         <div class="row">
             <div class="intro">
-                <img src="ProfilePic.jpg">
+                <div class="profilePic col-sm-4">
+                    <img src="ProfilePic.jpg">
+                </div>
+                <div class="bio col-sm-8">
                 <h1>Hello</h1>
-            <div class="bio">
 
-                <p1>Welcome to my site. I am an Electrical Engineering student at the University of Waterloo. Currently I am in my second year of study and have completed two Co-op work terms. In those terms I have worked for The Regional Municipality of York in the role of Transit Management Systems Student and at Zynga as a Quality Assurance Engineering Student. Outside of school and work I have interests in photography and design. Be sure to take a gander at a selection of my favourite photos here. </p1>
+                    <p1>Welcome to my site. I am an Electrical Engineering student at the <a href="https://uwaterloo.ca" target="_blank">University of Waterloo</a>. Currently I am in my second year of study and have completed two Co-op work terms. In those terms I have worked for <a href="http://www.york.ca/wps/portal/yorkhome/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKNjEzMPAydDbwMPPwtDDzdzANMXSw8DA28jYAKIoEKDHAARwNC-sP1o8BK8JhQkBthkO6oqAgA8oC4Gg!!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/#.Vkdl5rxWLww" target="_blank">The Regional Municipality of York</a> in the role of Transit Managemrent Systems Student and at <a href="https://www.zynga.com" target="_blank">Zynga</a> as a Quality Assurance Engineering Student. Outside of school and work I have interests in photography and design. Be sure to take a gander at a selection of my favourite photos <a href="Gallery.html">here</a>. </p1>
+                </div>
             </div>
         </div>
-    </div>
 
     </div>
 </body>
