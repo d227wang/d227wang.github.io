@@ -1,5 +1,6 @@
 .splash{
-background-position: center bottom; 
+ background: url(trees.jpg) no-repeat center center;
+    background-size: cover; 
 }
 .profilePic{
     padding-top: 6vh; 
