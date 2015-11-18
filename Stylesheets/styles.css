@@ -14,7 +14,7 @@
 }
 .splash {
     height: 100vh;
-    background: url(trees.jpg) no-repeat center center fixed;
+    background: url(/Images/trees.jpg) no-repeat center center fixed;
     background-size: cover; 
 }
 
