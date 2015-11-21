@@ -41,13 +41,17 @@
     padding-top: 25vh;
     font-size: 18px;
 }
-
-}
 a {
     color: #EF476F;
+    text-decoration: none;
+}
+a:link {
+    color: #EF476F;
+    text-decoration: none;
 }
 a:visited {
     color: #EF476F;
+    text-decoration: none;
 }
 a:hover {
     color: #2E79B9;
@@ -56,23 +60,46 @@ a:hover {
 a:active {
     color: #EF476F;
 }
-
 .resumeBtn {
     margin-top: 15vh;
     margin-bottom: 8vh;
     text-align: right;
-    
 }
-.btn {
+.btn{
     text-align: center;
     background-color: #fff;
     color: #333333;
     border-color: #333333;
 }
+.btn {
+    background-color: white;
+}
 .btn:hover {
     background-color: white;
     color: #333333;
     border-color: #333333;
+}
+.btn:active:focus {
+  background-color: white; 
+    color: #333333; 
+  border-color: #333333;
+    outline: 0; 
+}
+.btn:focus {
+  background-color: white; 
+    color: #333333; 
+  border-color: #333333;
+    outline: 0; 
+}
+.linkTray {
+    margin-top: 15vh;
+    margin-bottom: 8vh;
+}
+.linkTray button {
+    background-color: white;
+    color: #333333;
+    border: none;
+    padding-right: 10px;
 }
 .hvr-grow {
     display: inline-block;
@@ -93,24 +120,10 @@ a:active {
 .hvr-grow:active {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
-}
-.linkTray{
-    margin-top: 15vh;
-    margin-bottom: 8vh;
-}
-.linkTray button{
-    background-color: white; 
-    color: #333333; 
-    border: none; 
-    padding-right: 10px; 
-}
-#email{
-    padding-right: 0; 
-}
-
-.projects {
-    height: 710px;
-    background-color: #121509;
+    .projects {
+        height: 710px;
+        background-color: #121509;
+    }
 }
 
 /*ColorPallete: https://coolors.co/f6ffff-26547c-ef476f-ffd166-06d6a0*/
