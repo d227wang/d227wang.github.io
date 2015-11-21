@@ -56,10 +56,12 @@ a:hover {
 a:active {
     color: #EF476F;
 }
+
 .resumeBtn {
-    margin-top: 8vh;
+    margin-top: 15vh;
     margin-bottom: 8vh;
-    text-align: center;
+    text-align: right;
+    
 }
 .btn {
     text-align: center;
@@ -92,6 +94,20 @@ a:active {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
 }
+.linkTray{
+    margin-top: 15vh;
+    margin-bottom: 8vh;
+}
+.linkTray button{
+    background-color: white; 
+    color: #333333; 
+    border: none; 
+    padding-right: 10px; 
+}
+#email{
+    padding-right: 0; 
+}
+
 .projects {
     height: 710px;
     background-color: #121509;

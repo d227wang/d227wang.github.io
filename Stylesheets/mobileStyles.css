@@ -25,4 +25,16 @@
     padding-right: 1vw; 
     padding-top: 3vh; 
     font-size: 18px;
-    
+}
+
+.resumeBtn{
+    margin-top: 2vh; 
+    margin-bottom: 0; 
+    text-align: center; 
+}
+
+.linkTray{
+    margin-top: 3vh; 
+    margin-bottom: 3vh; 
+    text-align: center; 
+}
