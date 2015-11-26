@@ -19,6 +19,7 @@ kramdown:
     input:          GFM
 sass:
     style:          :compressed
+    sass_dir: blog/_sass
 
 # Other Params
 include:            [ "robots.txt" ]
