@@ -13,13 +13,40 @@
 }
 .splash {
     height: 100vh;
-    background: url(/Images/trees.jpg) no-repeat center center fixed;
+    background: url(/Images/FarrisWheel.jpeg) no-repeat center center;
+    padding-top: 10vh;
+    text-align: center;
     background-size: cover;
+}
+.splash a,
+h2 {
+    color: #000; 
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+}
+.splash a:link {
+    color: #000;
+    text-decoration: none;
+}
+.splash a:visited {
+    color: #000;
+    text-decoration: none;
+}
+.splash a:hover {
+    color: #EF476F;
+    text-decoration: none;
+}
+.splash a:active {
+    color: #000;
+}
+.splash h2{
+    padding-top: 63vh; 
+    font-size: 18px; 
 }
 .scrollArrow {
     display: block;
     margin: 0px auto;
-    padding-top: 95vh;
     width: 46px;
 }
 .intro {
@@ -65,7 +92,7 @@ a:active {
     margin-bottom: 8vh;
     text-align: right;
 }
-.btn{
+.btn {
     text-align: center;
     background-color: #fff;
     color: #333333;
@@ -80,16 +107,16 @@ a:active {
     border-color: #333333;
 }
 .btn:active:focus {
-  background-color: white; 
-    color: #333333; 
-  border-color: #333333;
-    outline: 0; 
+    background-color: white;
+    color: #333333;
+    border-color: #333333;
+    outline: 0;
 }
 .btn:focus {
-  background-color: white; 
-    color: #333333; 
-  border-color: #333333;
-    outline: 0; 
+    background-color: white;
+    color: #333333;
+    border-color: #333333;
+    outline: 0;
 }
 .linkTray {
     margin-top: 15vh;
