@@ -5,9 +5,8 @@
 .profilePic{
     padding-top: 6vh; 
 }
-.intro {
-
-    background-color: transparent; 
+.splash h2{
+    padding-top: 55vh; 
 }
 .intro img{
     display:block;  
