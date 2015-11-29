@@ -13,7 +13,7 @@
 }
 .splash {
     height: 100vh;
-    background: url(/Images/FarrisWheel.jpeg) no-repeat center center;
+    background: url(/Images/farrisWheel.jpeg) no-repeat center center;
     padding-top: 10vh;
     text-align: center;
     background-size: cover;
