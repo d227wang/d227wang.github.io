@@ -1,4 +1,4 @@
----
+----
 title: Markdown Cheatsheet Demo
 updated: 2015-09-04 22:43
 ---
@@ -26,10 +26,7 @@ Let's start with a informative paragraph. **This text is bolded.** But not this 
 ###### H6 Heading
 
 <div class="divider"></div>
-
-## Footnote
-
-Let's say you have text that you want to refer with a footnote, you can do that too! This is an example for the footnote number one [^1]. You can even add more footnotes, with link! [^2]
+ur with a footnote, you can do that too! This is an example for the footnote number one [^1]. You can even add more footnotes, with link! [^2]
 
 <div class="divider"></div>
 
