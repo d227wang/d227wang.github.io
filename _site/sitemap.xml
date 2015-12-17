@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>/notes/Olympus-Pen-FT-Review</loc>
-    <lastmod>2015-12-07T00:00:00+08:00</lastmod>
-  </url>
-  <url>
-    <loc>/blog</loc>
-  </url>
-    <url>
-      <loc>/notes/Olympus-Pen-FT-Review</loc>
-    </url>
-  <url>
-    <loc>/Gallery.html</loc>
-    <lastmod>2015-11-29T07:32:01+08:00</lastmod>
-  </url>
-  <url>
-    <loc>/index.html</loc>
-    <lastmod>2015-11-29T07:30:45+08:00</lastmod>
-  </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.darenwang.me/</loc>
+  <lastmod>2015-12-13T04:13:32+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.darenwang.me/index.html</loc>
+  <lastmod>2015-12-13T04:13:32+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.darenwang.me/blog.html</loc>
+  <lastmod>2015-12-13T04:13:32+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.darenwang.me/Gallery.html</loc>
+  <lastmod>2015-12-13T04:13:32+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.darenwang.me/Resume_Daren_sept_2015.pdf</loc>
+  <lastmod>2015-12-13T04:13:32+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.darenwang.me/notes/Olympus-Pen-FT-Review/</loc>
+  <lastmod>2015-12-13T04:13:32+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://www.darenwang.me/notes/Olympus-Pen-FT-Review/index.html</loc>
+  <lastmod>2015-12-13T04:13:32+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
 </urlset>
