@@ -1,0 +1,4 @@
+![hadfield](/Images/hadfieldTaughtMe/hadfield-medium.jpg)
+Today I made a Chris Hadfield random quote generator as part of a project on [FreeCodeCamp](http://www.freecodecamp.com/d227wang). Chris Hadfield for those who may not know is Canada’s most accomplished astronaut. He has flown on two space shuttle mission and also served as commander of the International Space Station. Reading his book “A Astronaut’s Guide to Life on Earth” left me with plenty memorable quotes so I have picked a few of my favourites which you can browse through. 
+<br> 
+Link to: [Hadfield Taught Me](http://www.darenwang.me/hadfieldTaughtMe/)
