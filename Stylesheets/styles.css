@@ -54,19 +54,38 @@ h2 {
     background-color: transparent;
 }
 .profilePic {
-    padding-top: 27vh;
+    padding-top: 17vh;
 }
 .profilePic img {
     display: block;
-    margin-left: auto;
+    margin-left: 15vw;
     width: 150px;
     border-radius: 100px;
 }
 .bio {
-    padding-left: 5vw;
-    padding-right: 20vw;
-    padding-top: 25vh;
+    padding-left: 2vw;
+    padding-right: 10vw;
+    padding-top: 15vh;
     font-size: 18px;
+}
+.list-paragraph {
+    margin-top: 3vh; 
+}
+.bio ul {
+    padding: 0 3em;
+    list-style: none;
+}
+.bio li:before { 
+    content: "";
+    border-color: transparent #EF476F;
+    border-style: solid;
+    border-width: 0.35em 0 0.35em 0.45em;
+    display: block;
+    height: 0;
+    width: 0;
+    left: -1em;
+    top: 0.9em;
+    position: relative;
 }
 a {
     color: #EF476F;
@@ -88,7 +107,7 @@ a:active {
     color: #EF476F;
 }
 .resumeBtn {
-    margin-top: 16vh;
+    margin-top: 6vh;
     margin-bottom: 8vh;
     text-align: right;
 }
@@ -119,7 +138,7 @@ a:active {
     outline: 0;
 }
 .linkTray {
-    margin-top: 15vh;
+    margin-top: 5vh;
     margin-bottom: 8vh;
 }
 .linkTray button {
